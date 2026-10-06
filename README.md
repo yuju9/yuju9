@@ -84,7 +84,7 @@
     <tr>
       <td align="center"><b>Club</b></td>
       <td><b>GDSC PKNU</b></td>
-      <td align="center">2021.09 ~ 2023.08</td>
+      <td align="center">2021.09 ~ 2022.08</td>
       <td>
         • 자바 스터디<br>
         • 테크톡
