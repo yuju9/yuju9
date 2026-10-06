@@ -39,7 +39,7 @@
       <td><b>한전KDN</b><br></td>
       <td align="center">2026.06 ~ 재직 중</td>
       <td>
-        • 에너지플랫폼 서버 개발<br>
+        • 전산직<br>
       </td>
     </tr>
     <tr>
