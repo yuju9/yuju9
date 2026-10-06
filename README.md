@@ -78,7 +78,16 @@
       <td align="center">2022.09 ~ 2023.02</td>
       <td>
         • 서버 및 스프링부트 스터디<br>
-        • 대학생 장학금 및 지원금 조회 웹앱 서비스 백엔드 개발
+        • 대학생 장학금 및 지원금 조회 서비스 백엔드 개발
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Club</b></td>
+      <td><b>GDSC PKNU</b></td>
+      <td align="center">2021.09 ~ 2023.08</td>
+      <td>
+        • 자바 스터디<br>
+        • 테크톡
       </td>
     </tr>
   </tbody>
